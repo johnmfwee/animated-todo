@@ -59,7 +59,7 @@ const Sidebar = (props: DrawerContentComponentProps) => {
           borderWidth={3}
         />
         <Heading mb={4} size="xl">
-          Takuya Matsuyama
+          John Wee
         </Heading>
         <MenuButton
           active={currentRoute === 'Main'}

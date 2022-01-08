@@ -1,5 +1,4 @@
 import { extendTheme } from 'native-base'
-import { PlatformColor } from 'react-native'
 
 const config = {
   useSystemColorMode: false,
